@@ -3,7 +3,6 @@
 Este repositorio contiene los mockups de la aplicación FoodPlease, un sistema multiplataforma pensado para mejorar la experiencia de clientes, locales y repartidores en el proceso de compra y entrega de alimentos.  
 La idea central es digitalizar y optimizar cada paso de la cadena: desde la selección de productos con stock en tiempo real, hasta la entrega con navegación GPS y confirmación de entrega.
 
----
 
 ## Objetivo del Proyecto
 FoodPlease busca resolver problemas comunes en la entrega de alimentos:
@@ -12,14 +11,16 @@ FoodPlease busca resolver problemas comunes en la entrega de alimentos:
 - Ausencia de **geolocalización y trazabilidad en tiempo real**.
 - Carencia de herramientas de **navegación moderna y confirmación digital** para repartidores.
 - Experiencia incompleta del usuario por falta de feedback y seguimiento.
----
+
+
 ##  Arquitectura Propuesta
 La solución está diseñada con una arquitectura moderna y escalable:
 - MVC (Modelo–Vista–Controlador) → separación clara de lógica, datos y visualización.
 - API REST → comunicación modular y extensible.
 - Firebase → backend como servicio (autenticación, base de datos en tiempo real, notificaciones y hosting).
 - Flutter → desarrollo multiplataforma para clientes, locales y repartidores.
----
+
+
 ## Flujo de Uso (Mockups)
 Los mockups incluidos en este repositorio representan cada paso del flujo de FoodPlease:
 1. Cliente accede y se registra desde web o app móvil.  
