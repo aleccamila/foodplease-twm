@@ -54,5 +54,5 @@ Cada mockup está nombrado según el **flujo de la vista** para facilitar la nav
 - PWA para funcionamiento offline en zonas con baja conectividad.  
 
 
-## 📜 Créditos
+## Créditos
 Proyecto desarrollado como propuesta académica por Alejandra Marín Olavarría 
