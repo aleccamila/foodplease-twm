@@ -32,7 +32,8 @@ Los mockups incluidos en este repositorio representan cada paso del flujo de Foo
 7. Entrega el pedido, gestionando pago (online o efectivo).  
 8. Confirma entrega desde la app.  
 9. Cliente califica el servicio y el pedido queda archivado en su historial.  
-> Cada mockup está nombrado según el **flujo de la vista** para facilitar la navegación.
+
+Cada mockup está nombrado según el **flujo de la vista** para facilitar la navegación.
 
 
 ## Estilo de Diseño
